@@ -7,7 +7,7 @@ All these elements combine to create a user experience that is both functional a
 
 ## Getting Started
 
-Open up the [project link](https://sun1devil.github.io/MoveMe/) and you should be able to see the example webpage shown below:
+Open up the [project link](https://robertshaw87.github.io/MoveMe/) and you should be able to see the example webpage shown below:
 
 ![Homepage](assets/images/home-page.png)
 
