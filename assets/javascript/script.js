@@ -257,9 +257,9 @@ $(document).on("click", ".event-card-header", function (event) {
 
     if ($(".event-card-icon", this).attr("src") === "assets/images/plusIcon.png"){
         $(".event-card-icon", this).attr("src","assets/images/minusIcon.png");
-        $(this).next().removeClass("animated fadeInDown");
-        void this.offsetWidth;
-        $(this).next().addClass("animated fadeInDown");
+        // $(this).next().removeClass("animated fadeInDown");
+        // void this.offsetWidth;
+        // $(this).next().addClass("animated fadeInDown");
     } else {
         $(".event-card-icon", this).attr("src","assets/images/plusIcon.png");
     }
